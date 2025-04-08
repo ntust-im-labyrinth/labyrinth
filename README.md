@@ -1,6 +1,6 @@
 # LABYRINTH
 
-## Lab, Young &amp; Restless, IN, Threat Hunting
+## <span style="color:blue">Lab</span>, <span style="color:yellow">Y</span>oung &amp; <span style="color:orange">R</span>estless, <span style="color:gray">IN</span>, <span style="color:red">T</span>hreat <span style="color:purple">H</span>unting
 
 Welcome to the **LABYRINTH**, led by **Prof. Raymund Lin**, part of the Information Management Department at National Taiwan University of Science and Technology.  
 We focus on advancing research in cybersecurity, threat hunting, and generative AI, with an emphasis on practical applications and education.

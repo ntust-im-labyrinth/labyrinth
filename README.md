@@ -1,6 +1,6 @@
 # LABYRINTH
 
-## <code style="color:aqua">Lab</code>, <code style="color:magenta">Y</code>oung &amp; <code style="color:darkorange">R</code>estless, <code style="color:purple">IN</code>, <code style="color:red">T</code>hreat <code style="color:gold">H</code>unting
+## $${\color{blue}Lab}$$, $${\color{yellow}Y}$$oung &amp; $${\color{orange}R}$$estless, $${\color{green}IN}$$, $${\color{red}T}$$hreat $${\color{orange}H}$$unting
 
 Welcome to the **LABYRINTH**, led by **Prof. Raymund Lin**, part of the Information Management Department at National Taiwan University of Science and Technology.  
 We focus on advancing research in cybersecurity, threat hunting, and generative AI, with an emphasis on practical applications and education.

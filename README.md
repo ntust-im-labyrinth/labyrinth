@@ -1,2 +1,60 @@
-# labyrinth
-Lab, Young &amp; Restless, in, Threat Hunting
+# LABYRINTH: Lab, Young &amp; Restless, IN, Threat Hunting
+
+Welcome to the **LABYRINTH**, led by **Prof. Raymund Lin**, part of the Information Management Department at National Taiwan University of Science and Technology.  
+We focus on advancing research in cybersecurity, threat hunting, and generative AI, with an emphasis on practical applications and education.
+
+---
+
+## 🔬 About the Lab
+
+The mission of the LABYRINTH is to drive forward innovation in cybersecurity, foster interdisciplinary collaboration, and provide hands-on research experience to students.  
+Our current projects explore topics including:
+
+- Generative AI for Cyber Threat Hunting  
+- AI-Augmented Security Operations  
+- Automated Hunt Analytics  
+- Curriculum design for cybersecurity education
+
+We collaborate with academia, industry, and government partners to ensure real-world impact.
+
+---
+
+## 👨‍🏫 Lab Director
+
+**Prof. Raymund Lin**  
+Associate Professor, Department of Information Management, School of Management, National Taiwan University of Science and Technology
+- 🌐 [Biography](bio/raymundlin)
+- 📧 raymundlin(at)mail.ntust.edu.tw
+- 🧠 https://www.linkedin.com/in/raymundlin/
+
+---
+
+## 👥 Lab Members
+
+| Name               | Role               | Research Interests                          | Contact / Profile              |
+|--------------------|--------------------|---------------------------------------------|--------------------------------|
+| [Full Name]        | PhD Student         | [Area, e.g., LLMs for Security Automation]  | [LinkedIn/GitHub/email]       |
+| [Full Name]        | Master's Student    | [Area, e.g., Threat Intelligence Pipelines] | [LinkedIn/GitHub/email]       |
+| [Full Name]        | Undergraduate       | [Area, e.g., SOC Automation Tools]          | [LinkedIn/GitHub/email]       |
+| [Full Name]        | Research Assistant  | [Area, e.g., Incident Response Simulation]  | [LinkedIn/GitHub/email]       |
+
+---
+
+## 📢 Opportunities
+
+We are always looking for motivated students and collaborators.  
+If you're interested in working with us, check out our [Open Projects](projects) or contact Prof. Raymund Lin directly.
+
+---
+
+## 📄 Publications & Projects
+
+See our [Publications](publications) and [Projects](projects) pages for recent work.
+
+---
+
+## 📍 Location
+
+Management Building, Room 307
+No. 43, Sec. 4, Keelung Rd., Taipei City, Taiwan 106
+

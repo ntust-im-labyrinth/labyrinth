@@ -35,7 +35,7 @@ Associate Professor, Department of Information Management, School of Management,
 
 | Name               | Role               | Research Interests                          | Contact / Profile              |
 |--------------------|--------------------|---------------------------------------------|--------------------------------|
-| KE,WEI-LAIN        | Master's Student    | Log anomaly detection | m11209316(at)gapps.ntust.edut.tw       |
+| Ke,Wei-Lain        | Master's Student    | Log anomaly detection | m11209316(at)gapps.ntust.edut.tw       |
 | Chen,Peng-Jiun     | Master's Student    | Evaluation of a novel LLM-based threat hunting system  | m11209309(at)gapps.ntust.edut.tw|
 | Lin,Cheng-Yi       | Master's Student    | Honeypot | m11209313(at)gapps.ntust.edut.tw|
 | Lai,Yu-Hsiang      | Master's Student    | LLM, APT Attribution, TTP | https://www.linkedin.com/in/laidd/<br>m11209315(at)mail.ntust.edu.tw|

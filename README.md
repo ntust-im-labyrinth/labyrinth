@@ -36,7 +36,7 @@ Associate Professor, Department of Information Management, School of Management,
 | Name               | Role               | Research Interests                          | Contact / Profile              |
 |--------------------|--------------------|---------------------------------------------|--------------------------------|
 | KE,WEI-LAIN        | Master's Student    | Log anomaly detection | m11209316(at)gapps.ntust.edut.tw       |
-| [Full Name]        | PhD Student         | [Area, e.g., LLMs for Security Automation]  | [LinkedIn/GitHub/email]       |
+| Chen,Peng-Jiun     | Master's Student    | Evaluation of a novel LLM-based threat hunting system  | m11209309(at)gapps.ntust.edut.tw|
 | [Full Name]        | Master's Student    | [Area, e.g., Threat Intelligence Pipelines] | [LinkedIn/GitHub/email]       |
 | [Full Name]        | Undergraduate       | [Area, e.g., SOC Automation Tools]          | [LinkedIn/GitHub/email]       |
 | [Full Name]        | Research Assistant  | [Area, e.g., Incident Response Simulation]  | [LinkedIn/GitHub/email]       |

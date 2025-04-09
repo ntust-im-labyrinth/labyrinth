@@ -35,7 +35,7 @@ Associate Professor, Department of Information Management, School of Management,
 
 | Name               | Role               | Research Interests                          | Contact / Profile              |
 |--------------------|--------------------|---------------------------------------------|--------------------------------|
-| KKE,WEI-LAIN        | Master's Student    | Log anomaly detection | m11209316@gapps.ntust.edut.tw       |
+| KE,WEI-LAIN        | Master's Student    | Log anomaly detection | m11209316@gapps.ntust.edut.tw       |
 | [Full Name]        | PhD Student         | [Area, e.g., LLMs for Security Automation]  | [LinkedIn/GitHub/email]       |
 | [Full Name]        | Master's Student    | [Area, e.g., Threat Intelligence Pipelines] | [LinkedIn/GitHub/email]       |
 | [Full Name]        | Undergraduate       | [Area, e.g., SOC Automation Tools]          | [LinkedIn/GitHub/email]       |

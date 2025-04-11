@@ -40,7 +40,7 @@ Associate Professor, Department of Information Management, School of Management,
 | Lin,Cheng-Yi       | Master's Student    | Honeypot | m11209313(at)gapps.ntust.edut.tw|
 | Lai,Yu-Hsiang      | Master's Student    | LLM, APT Attribution, TTP | https://www.linkedin.com/in/laidd/<br>m11209315(at)mail.ntust.edu.tw|
 | Hsu,Yue-Shan       | Master's Student    | CyberSecurity Education Game, LLM | m11209320(at)mail.ntust.edu.tw|
-| Muhammad Gilvy Langgawan Putra <br>Wang Tzu-wei        | PhD's Student    | LLMs for Threat Hunting Education | muhammadlanggawan(at)gmail.com|
+| Muhammad Gilvy Langgawan Putra <br>[Wang Tzu-wei]        | PhD's Student    | LLMs for Threat Hunting Education | muhammadlanggawan(at)gmail.com|
 | [Full Name]        | Undergraduate       | [Area, e.g., SOC Automation Tools]          | [LinkedIn/GitHub/email]       |
 | [Full Name]        | Research Assistant  | [Area, e.g., Incident Response Simulation]  | [LinkedIn/GitHub/email]       |
 

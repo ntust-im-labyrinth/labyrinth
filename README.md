@@ -42,7 +42,7 @@ Associate Professor, Department of Information Management, School of Management,
 | Hsu,Yue-Shan       | Master's Student    | CyberSecurity Education Game, LLM | m11209320(at)mail.ntust.edu.tw|
 | Muhammad Gilvy Langgawan Putra <br>[Wang Tzu-wei]        | PhD's Student    | LLMs for Threat Hunting Education | https://www.linkedin.com/in/gilvylanggawan/ <br>muhammadlanggawan(at)gmail.com|
 | Kittitas Kasetsin  | Master's Student    | SEO Poisoning | m11209819(at)mail.ntust.edu.tw|
-| [Full Name]        | Undergraduate       | [Area, e.g., SOC Automation Tools]          | [LinkedIn/GitHub/email]       |
+| Lin,Cheng-Han      | Master's Student    | XSS, LLM  | https://www.linkedin.com/in/hanklinaifan/<br>m11309319@mail.ntust.edu.tw| 
 | [Full Name]        | Research Assistant  | [Area, e.g., Incident Response Simulation]  | [LinkedIn/GitHub/email]       |
 
 ---

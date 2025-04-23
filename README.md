@@ -44,6 +44,7 @@ Associate Professor, Department of Information Management, School of Management,
 | Kittitas Kasetsin  | Master's Student    | SEO Poisoning | m11209819(at)mail.ntust.edu.tw|
 | Lin,Cheng-Han      | Master's Student    | XSS, LLM  | https://www.linkedin.com/in/hanklinaifan/<br>m11309319(at)mail.ntust.edu.tw| 
 | Wolf, Moritz  | Master's Student    | Phishing | m11309808(at)mail.ntust.edu.tw|
+| Chen, Wei-Shan     | Master's Student    | Threat Intelligence, LLM | m11309312(at)mail.ntust.edu.tw|
 | [Full Name]        | Research Assistant  | [Area, e.g., Incident Response Simulation]  | [LinkedIn/GitHub/email]       |
 
 ---

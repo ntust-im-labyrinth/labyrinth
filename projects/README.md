@@ -13,7 +13,7 @@
   
 <p align="justify"> Our project showcases the innovative research and initiatives driven by our lab in the fields of cybersecurity and artificial intelligence. We focus on cutting-edge areas such as: </p>
 
-- Thelma
+- [Thelma](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/Thelma/README.md#----thelma-project--)
 - AI in Cybersecurity Education
 - Human factors in Cybersecurity
 - Log Mamba

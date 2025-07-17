@@ -152,7 +152,7 @@ GTEP: Cultivating Global Innovators in Taiwan
 
 AISEC Labs: Revolutionizing Cybersecurity with AI
 
-<div align="center">  <img width="468" height="161" alt="image" src="https://github.com/user-attachments/assets/43f06462-8f50-45ef-a00a-8d14ce61ad95" /></div>
+<div align="center"> <img width="468" height="161" alt="image" src="https://github.com/user-attachments/assets/43f06462-8f50-45ef-a00a-8d14ce61ad95"/></div>
 
 <p align="justify">Represented by talented team members Lena, Gilvy, and Melody, AISEC Labs stood out with their AI-powered Cybersecurity Solution, tailored for dynamic and secure business environments. Their platform leverages advanced AI technologies to:</p>
 

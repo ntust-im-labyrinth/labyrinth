@@ -24,4 +24,4 @@
 
 
 
-🏠 [Home Page](https://github.com/ntust-im-labyrinth/labyrinth)
+🏠[Home Page](https://github.com/ntust-im-labyrinth/labyrinth)

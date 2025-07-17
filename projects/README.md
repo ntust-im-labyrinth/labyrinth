@@ -23,13 +23,5 @@
 <p align="justify"> We’re not just focused on building and experimenting, we’re also big on sharing our work. From talks at conferences to published papers and community events, we aim to get our ideas out there. This repo showcases the work of our professors and lab members, and helps us connect with others in the cybersecurity and AI space.</p>
 
 
-# ⲷ Table of Contents
-1. Thelma
-2. AI in Cybersecurity Education
-3. Human factors in Cybersecurity
-4. Log Mamba
-5. AI for Cybersecurity Attribution
 
-
-
-
+🏠 [Home Page](https://github.com/ntust-im-labyrinth/labyrinth)

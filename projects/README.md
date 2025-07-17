@@ -3,7 +3,8 @@
   LABYRINTH Projects and Activities
 </h1>
 
-
+<a href="https://github.com/raymundlin"> 
+  <img alt="followers" title="Follow me on Github for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 <p align="justify"> The LABYRINTH project showcases the innovative research and initiatives led by our lab in the field of cybersecurity and artificial intelligence. Our work focuses on cutting-edge areas such as: </p>
 
 - **Generative AI for Cyber Threat Hunting**  

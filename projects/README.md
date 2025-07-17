@@ -1,10 +1,16 @@
 <h1 align="center">
   <br />
-  LABYRINTH Projects and Activities
+  LABYRINTH 
+  <br />
+  Projects and Activities
 </h1>
+<p align="right">
+  <img alt="followers" title="Follow Lab Director Prof. Raymund Lin on Github for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 
-<a href="https://github.com/raymundlin"> 
-  <img alt="followers" title="Follow Lab Director Prof. Raymund Lin on Github for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gilvylanggawan11.projects&left_text=Visitors" alt="visitor badge" style="margin-left: 10px;"/>
+</p>
+
+  
 <p align="justify"> The LABYRINTH project showcases the innovative research and initiatives led by our lab in the field of cybersecurity and artificial intelligence. Our work focuses on cutting-edge areas such as: </p>
 
 - **Generative AI for Cyber Threat Hunting**  
@@ -16,7 +22,7 @@
 This platform highlights the contributions of our professors and lab members while promoting visibility and collaboration across the cybersecurity and AI landscape. </p>
 
 
-# Table of Contents
+# ⲷ Table of Contents
 1. [Project](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#project)
 
     * [Thelma : An Agent Framework for Threat Hunting Automation](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#thelma--an-agent-framework-for-threat-hunting-automation)
@@ -29,6 +35,7 @@ This platform highlights the contributions of our professors and lab members whi
 3. [Competition](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#competition)
 
    * [Global Talent Entrepreneurship Program (GTEP) 3 2024](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#global-talent-entrepreneurship-program-gtep-3-2024)
+
 # Project 
 
 ### Thelma : An Agent Framework for Threat Hunting Automation

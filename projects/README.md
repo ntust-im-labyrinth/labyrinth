@@ -131,3 +131,48 @@ The framework’s comprehensive nature not only supports customized training dev
 If you’d like to explore A Cybersecurity Skills Framework for Non-Professionals in more detail, you can access the full resource through the following link:
 [Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals](https://dl.acm.org/doi/10.1145/3716489.3728444)
 
+# Competition
+[Back to the Top](#table-of-contents)
+
+### Global Talent Entrepreneurship Program (GTEP) 3 2024
+
+[Back to the Top](#table-of-contents)
+
+AISEC Labs Wins Excellence Award at 2024 GTEP for AI-Powered Cybersecurity Solution
+
+<p align="justify">In a groundbreaking achievement, AISEC Labs has secured the Excellence Award at the Global Talent Entrepreneurship Program (GTEP) 3, 2024, for their cutting-edge AI-powered Cybersecurity Solution. This recognition not only highlights AISEC Labs’ technological innovation but also Taiwan’s growing role as a hub for global entrepreneurial talent.</p>
+
+ <div align="center"> <img width="468" height="198" alt="image" src="https://github.com/user-attachments/assets/473fd80c-2249-4132-b226-cb7f9bd07ede" /></div>
+
+GTEP: Cultivating Global Innovators in Taiwan
+
+<p align="justify">The Global Talent Entrepreneurship Program (GTEP) is a flagship initiative targeting international students in Taiwan. The program is designed to nurture startup skills through intensive entrepreneurial training, foster innovative international startup teams, and help build a more inclusive and globalized startup ecosystem in Taiwan.</p>
+<p align="justify">Each year, GTEP culminates in a Bootcamp and International Demo Day Competition, offering participants not just training but also exposure to Taiwan’s vibrant startup scene.</p>
+<p align="justify">The 2024 GTEP Bootcamp, taking place in late August, features a 2-day immersive learning experience on entrepreneurship. This year’s edition saw international expansion, with entrepreneurial teams invited from NTUST’s international sister schools and partner incubators. Teams from Indonesia (WMCU) and Thailand (ELP Program, TSU, UBU) joined the competition, showcasing global perspectives and fostering cross-border collaboration.</p>
+
+AISEC Labs: Revolutionizing Cybersecurity with AI
+
+<div align="center">  <img width="468" height="161" alt="image" src="https://github.com/user-attachments/assets/43f06462-8f50-45ef-a00a-8d14ce61ad95" /></div>
+
+<p align="justify">Represented by talented team members Lena, Gilvy, and Melody, AISEC Labs stood out with their AI-powered Cybersecurity Solution, tailored for dynamic and secure business environments. Their platform leverages advanced AI technologies to:</p>
+
+<div align="center"><img width="417" height="187" alt="image" src="https://github.com/user-attachments/assets/75e2a80b-59fc-4bd5-a2c3-91abf8ab4dbe" /></div>
+
+- Personalize Training for businesses, enabling smarter and faster cybersecurity strategies.
+- Offer Interactive, Gamified Experiences to engage users in learning about digital threats and security protocols. 
+- Ensure businesses Stay Secure and Always Up-to-Date by adapting to emerging threats in real-time.
+- Deliver Flexible, Scalable Subscriptions, making high-end protection accessible without compromising on budget or efficiency.
+
+<p align="justify"> Their approach combines technical depth with user-centric design, transforming traditional cybersecurity into a proactive, accessible, and engaging solution.</p>
+A Win for Innovation and International Collaboration 
+
+<p align="justify"> The Excellence Award at GTEP 2024 is not just a victory for AISEC Labs.iit’s a testament to the value of international collaboration, diversity in innovation, and Taiwan’s commitment to fostering global startup talent.</p>
+
+<p align="justify"> As Lena, Gilvy, and Melody demonstrated, with the right tools, mentorship, and a shared vision, young entrepreneurs can solve global problems through technology. AISEC Labs’ achievement is an inspiration for future cohorts and a sign of what’s possible when borders are bridges to innovation. </p>
+
+See our Presentation : [AISEC Labs](https://www.canva.com/design/DAGXYGFVn2c/BYPAbr2MLCH_ed0C3FjtrA/edit?utm_content=DAGXYGFVn2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+
+
+

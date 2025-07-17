@@ -27,7 +27,7 @@ This platform highlights the contributions of our professors and lab members whi
 
     * [Thelma : An Agent Framework for Threat Hunting Automation](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#thelma--an-agent-framework-for-threat-hunting-automation)
 
-2. [Conference](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#conference)
+2. [Conference](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#-conference)
 
     * [Investigating the Role of ChatGPT in Cybersecurity Education](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#investigating-the-role-of-chatgpt-in-cybersecurity-education)
     * [Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#beyond-technical-training-a-cybersecurity-skills-framework-for-non-professionals)
@@ -141,7 +141,7 @@ If you’d like to explore A Cybersecurity Skills Framework for Non-Professional
 [Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals](https://dl.acm.org/doi/10.1145/3716489.3728444)
 
 # 🏆 Competition
-[Back to the Top](#table-of-contents)
+[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#-competition)
 
 ### Global Talent Entrepreneurship Program (GTEP) 3 2024
 

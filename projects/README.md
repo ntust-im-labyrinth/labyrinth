@@ -84,6 +84,8 @@ of learning how to use threat-hunting tools effectively skills that are best tau
 
 <p align="justify">Lena Theodora Schramm, an exchange student from the University of Applied Sciences Karlsruhe, for her recent presentation at the ACM SIGMIS Computers and People Research (CPR) 2025 Conference, held at Baylor University in Waco, Texas, USA. 
 This year’s conference theme, “Managing IT in a Dynamic World: The Social and Organizational Ramifications of Sophisticated Technologies and Security Threats,” served as an ideal platform for discussions at the intersection of human behavior, security, and digital innovation.</p>
+<div align="center"><img width="210" height="158" alt="image" src="https://github.com/user-attachments/assets/3a27e07d-c5c5-4e00-bab3-d00a229769fe" /><img width="155" height="207" alt="image" src="https://github.com/user-attachments/assets/131d1771-6bdf-436c-9bc5-b8e8dc25744a" /></div>
+
 
 <p align="justify">As part of her one-year exchange with National Taiwan University of Science and Technology (NTUST) and active participation in the Labirynt Lab, Lena delivered a compelling talk titled:</p>
 

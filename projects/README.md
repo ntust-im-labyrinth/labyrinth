@@ -19,9 +19,9 @@ This platform highlights the contributions of our professors and lab members whi
 
 1. [Thelma : An Agent Framework for Threat Hunting Automation](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#thelma--an-agent-framework-for-threat-hunting-automation)
 
-3. [Investigating the Role of ChatGPT in Cybersecurity Education](https://github.com/ntust-im-labyrinth/labyrinth/edit/GilvyThelmaProjectM/projects/README.md#investigating-the-role-of-chatgpt-in-cybersecurity-education)
+3. [Investigating the Role of ChatGPT in Cybersecurity Education](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#thelma--an-agent-framework-for-threat-hunting-automation)
    
-4. [Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals](https://github.com/ntust-im-labyrinth/labyrinth/edit/GilvyThelmaProjectM/projects/README.md#beyond-technical-training-a-cybersecurity-skills-framework-for-non-professionals)
+4. [Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#thelma--an-agent-framework-for-threat-hunting-automation)
 
    
 # Thelma : An Agent Framework for Threat Hunting Automation

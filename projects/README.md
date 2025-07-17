@@ -142,8 +142,9 @@ AISEC Labs Wins Excellence Award at 2024 GTEP for AI-Powered Cybersecurity Solut
 
 <p align="justify">In a groundbreaking achievement, AISEC Labs has secured the Excellence Award at the Global Talent Entrepreneurship Program (GTEP) 3, 2024, for their cutting-edge AI-powered Cybersecurity Solution. This recognition not only highlights AISEC Labs’ technological innovation but also Taiwan’s growing role as a hub for global entrepreneurial talent.</p>
 
- <div align="center"> <img width="468" height="198" alt="image" src="https://github.com/user-attachments/assets/473fd80c-2249-4132-b226-cb7f9bd07ede" /></div>
+<div align="center"><img width="468" height="378" alt="image" src="https://github.com/user-attachments/assets/1f068e75-9183-45e7-abb2-26c6735ee2e2" /></div>
 
+ 
 GTEP: Cultivating Global Innovators in Taiwan
 
 <p align="justify">The Global Talent Entrepreneurship Program (GTEP) is a flagship initiative targeting international students in Taiwan. The program is designed to nurture startup skills through intensive entrepreneurial training, foster innovative international startup teams, and help build a more inclusive and globalized startup ecosystem in Taiwan.</p>
@@ -152,7 +153,6 @@ GTEP: Cultivating Global Innovators in Taiwan
 
 AISEC Labs: Revolutionizing Cybersecurity with AI
 
-<div align="center"> <img width="468" height="161" alt="image" src="https://github.com/user-attachments/assets/43f06462-8f50-45ef-a00a-8d14ce61ad95"/></div>
 
 <p align="justify">Represented by talented team members Lena, Gilvy, and Melody, AISEC Labs stood out with their AI-powered Cybersecurity Solution, tailored for dynamic and secure business environments. Their platform leverages advanced AI technologies to:</p>
 

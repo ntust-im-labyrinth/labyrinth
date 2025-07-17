@@ -141,7 +141,6 @@ If you’d like to explore A Cybersecurity Skills Framework for Non-Professional
 [Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals](https://dl.acm.org/doi/10.1145/3716489.3728444)
 
 # 🏆 Competition
-[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#-competition)
 
 ### Global Talent Entrepreneurship Program (GTEP) 3 2024
 

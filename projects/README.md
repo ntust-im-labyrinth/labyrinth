@@ -16,15 +16,20 @@ This platform highlights the contributions of our professors and lab members whi
 
 
 # Table of Contents
+1. Project
 
-1. [Thelma : An Agent Framework for Threat Hunting Automation](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#thelma--an-agent-framework-for-threat-hunting-automation)
+    * [Thelma : An Agent Framework for Threat Hunting Automation](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#thelma--an-agent-framework-for-threat-hunting-automation)
 
-3. [Investigating the Role of ChatGPT in Cybersecurity Education](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#investigating-the-role-of-chatgpt-in-cybersecurity-education)
+2. Conference
+
+    * [Investigating the Role of ChatGPT in Cybersecurity Education](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#investigating-the-role-of-chatgpt-in-cybersecurity-education)
+    * [Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#beyond-technical-training-a-cybersecurity-skills-framework-for-non-professionals)
+
+3. Competition
    
-4. [Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#beyond-technical-training-a-cybersecurity-skills-framework-for-non-professionals)
+# Project 
 
-   
-# Thelma : An Agent Framework for Threat Hunting Automation
+### Thelma : An Agent Framework for Threat Hunting Automation
 [Back to the Top](#table-of-contents)
 
 <p align="justify">Despite advancements in cybersecurity tools and frameworks, threat hunting remains a largely manual and expert-driven process. Traditional systems rely heavily on indicators of compromise (IOCs), which are rigid and easily evaded by sophisticated attackers. 
@@ -48,8 +53,8 @@ For a comprehensive understanding of Thelma’s design, performance, and evaluat
 
 Source : [Thelma: Threat Hunting Enhanced Language Models for Hunt Automation](https://ieeexplore-ieee-org.ntust.idm.oclc.org/abstract/document/10735642?casa_token=g2ogPvECGaYAAAAA:kSz8UHi1kDHdM7tLl8EvxgJ_H-cg6hqKpAr5PiDbgPvzJAfNSOJF23_GilBaKfvo9GUMNgWz5j8)
 
-
-# Investigating the Role of ChatGPT in Cybersecurity Education
+# Conference
+### Investigating the Role of ChatGPT in Cybersecurity Education
 [Back to the Top](#table-of-contents)
 <p align="justify"> Muhammad Gilvy Langgawan Putra, a PhD student in Information Management at the National Taiwan University of Science and Technology (NTUST) and a member of the Labyrinth Lab, recently presented at The European Conference on Education (ECE) 2024, 
   held in London, United Kingdom.</p>
@@ -79,7 +84,7 @@ of learning how to use threat-hunting tools effectively skills that are best tau
 
 
 
-# Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals 
+### Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals 
 [Back to the Top](#table-of-contents)
 
 <p align="justify">Lena Theodora Schramm, an exchange student from the University of Applied Sciences Karlsruhe, for her recent presentation at the ACM SIGMIS Computers and People Research (CPR) 2025 Conference, held at Baylor University in Waco, Texas, USA. 

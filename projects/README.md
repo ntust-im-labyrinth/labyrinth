@@ -39,7 +39,7 @@ This platform highlights the contributions of our professors and lab members whi
 # 🧑‍💻 Project 
 
 ### Thelma : An Agent Framework for Threat Hunting Automation
-[Back to the Top](#table-of-contents)
+[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#%E2%B2%B7-table-of-contents)
 
 <p align="justify">Despite advancements in cybersecurity tools and frameworks, threat hunting remains a largely manual and expert-driven process. Traditional systems rely heavily on indicators of compromise (IOCs), which are rigid and easily evaded by sophisticated attackers. 
 While artificial intelligence and machine learning have been introduced to aid detection, these models often require large datasets, lack interpretability, and are not flexible enough to adapt to evolving threats. Moreover, existing automated threat hunting tools focus primarily on 

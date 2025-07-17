@@ -25,8 +25,9 @@ This platform highlights the contributions of our professors and lab members whi
     * [Investigating the Role of ChatGPT in Cybersecurity Education](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#investigating-the-role-of-chatgpt-in-cybersecurity-education)
     * [Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#beyond-technical-training-a-cybersecurity-skills-framework-for-non-professionals)
 
-3. Competition
-   
+3. [Competition](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#competition)
+
+   * [Global Talent Entrepreneurship Program (GTEP) 3 2024](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#global-talent-entrepreneurship-program-gtep-3-2024)
 # Project 
 
 ### Thelma : An Agent Framework for Threat Hunting Automation

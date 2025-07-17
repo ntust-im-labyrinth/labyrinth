@@ -23,7 +23,7 @@ This platform highlights the contributions of our professors and lab members whi
 
 
 # ⲷ Table of Contents
-1. [Project](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#project)
+1. [Project](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#-project)
 
     * [Thelma : An Agent Framework for Threat Hunting Automation](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#thelma--an-agent-framework-for-threat-hunting-automation)
 

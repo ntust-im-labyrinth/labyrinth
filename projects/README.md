@@ -81,3 +81,46 @@ of learning how to use threat-hunting tools effectively skills that are best tau
 
 # Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals 
 [Back to the Top](#table-of-contents)
+
+<p align="justify">Lena Theodora Schramm, an exchange student from the University of Applied Sciences Karlsruhe, for her recent presentation at the ACM SIGMIS Computers and People Research (CPR) 2025 Conference, held at Baylor University in Waco, Texas, USA. 
+This year’s conference theme, “Managing IT in a Dynamic World: The Social and Organizational Ramifications of Sophisticated Technologies and Security Threats,” served as an ideal platform for discussions at the intersection of human behavior, security, and digital innovation.</p>
+
+<p align="justify">As part of her one-year exchange with National Taiwan University of Science and Technology (NTUST) and active participation in the Labirynt Lab, Lena delivered a compelling talk titled:</p>
+
+<p align="justify">"Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals.</p>
+<p align="justify">
+  In her presentation, Lena introduced the Cybersecurity Skills Assessment Framework (CSAF) a pioneering model that redefines how organizations and societies prepare the non-technical workforce for cybersecurity challenges. While traditional frameworks often cater to IT professionals, CSAF shifts the focus toward equipping everyday users such as office workers, administrators, and citizens with both technical awareness and essential soft skills to navigate and mitigate cyber threats.
+
+ <div align="center"> <img width="363" height="165" alt="image" src="https://github.com/user-attachments/assets/ab350c28-4d4a-4789-a88d-d2622059feb2" /></div>
+
+its core, CSAF outlines five essential hard skills, inspired by the NIST Cybersecurity Framework:
+
+- Identify potential risks
+- Protect data and systems
+- Recognize suspicious activity
+- Respond effectively to incidents
+- Recover operations after a breach
+
+<p align="justify">These competencies are designed to guide individuals through the full spectrum of a cyber incident, helping them become proactive contributors to organizational cybersecurity.</p>
+
+<p align="justify"> However, what truly sets CSAF apart is its integration of six soft skills often missing from conventional cybersecurity education/></p>
+
+- Communication and collaboration
+- Responsibility and accountability
+- Critical thinking
+- Empathy
+- Adaptability
+- Stress management and resilience
+
+<p align="justify">
+  By embedding these human-centered capabilities into training and assessments, the framework reflects the complex, real-world nature of cyber threats many of which exploit human behavior more than system vulnerabilities. Lena emphasized how fostering a supportive, communicative, and resilient culture can greatly enhance an organization’s overall cyber defense posture.
+</p>
+
+<p align="justify">
+The framework’s comprehensive nature not only supports customized training development but also encourages a broader cultural shift toward shared responsibility and emotional readiness in digital environments
+</p>
+
+
+If you’d like to explore A Cybersecurity Skills Framework for Non-Professionals in more detail, you can access the full resource through the following link:
+[Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals](https://dl.acm.org/doi/10.1145/3716489.3728444)
+

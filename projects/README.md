@@ -94,7 +94,7 @@ of learning how to use threat-hunting tools effectively skills that are best tau
 
 
 ### Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals 
-[Back to the Top](#table-of-contents)
+[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#%E2%B2%B7-table-of-contents)
 
 <p align="justify">Lena Theodora Schramm, an exchange student from the University of Applied Sciences Karlsruhe, for her recent presentation at the ACM SIGMIS Computers and People Research (CPR) 2025 Conference, held at Baylor University in Waco, Texas, USA. 
 This year’s conference theme, “Managing IT in a Dynamic World: The Social and Organizational Ramifications of Sophisticated Technologies and Security Threats,” served as an ideal platform for discussions at the intersection of human behavior, security, and digital innovation.</p>
@@ -145,7 +145,7 @@ If you’d like to explore A Cybersecurity Skills Framework for Non-Professional
 
 ### Global Talent Entrepreneurship Program (GTEP) 3 2024
 
-[Back to the Top](#table-of-contents)
+[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#%E2%B2%B7-table-of-contents)
 
 AISEC Labs Wins Excellence Award at 2024 GTEP for AI-Powered Cybersecurity Solution
 

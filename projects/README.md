@@ -64,7 +64,7 @@ Source : [Thelma: Threat Hunting Enhanced Language Models for Hunt Automation](h
 
 # 🧑‍🏫 Conference
 ### Investigating the Role of ChatGPT in Cybersecurity Education
-[Back to the Top](#table-of-contents)
+[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/README.md#%E2%B2%B7-table-of-contents)
 <p align="justify"> Muhammad Gilvy Langgawan Putra, a PhD student in Information Management at the National Taiwan University of Science and Technology (NTUST) and a member of the Labyrinth Lab, recently presented at The European Conference on Education (ECE) 2024, 
   held in London, United Kingdom.</p>
 <div align="center"><img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/9ce46198-2eae-4e64-9613-394d76d88958" /></div>

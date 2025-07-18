@@ -35,4 +35,4 @@ For those looking to implement this framework in their training programs or secu
 </p>
 
 
-[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/edit/GilvyThelmaProjectM/projects/HumanfactorsinCybersecurity/README.md#%EF%B8%8F-beyond-technical-training-a-cybersecurity-skills-framework-for-non-professionals) | [Back to the Project List](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#----projects---colorbluelab-coloryellowy-oung--colororanger-estless-colorgreenin-colorredt-hreat-colororangeh-unting)
+[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects/HumanfactorsinCybersecurity#%EF%B8%8F-beyond-technical-training-a-cybersecurity-skills-framework-for-non-professionals) | [Back to the Project List](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#----projects---colorbluelab-coloryellowy-oung--colororanger-estless-colorgreenin-colorredt-hreat-colororangeh-unting)

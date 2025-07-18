@@ -26,4 +26,4 @@ For a comprehensive understanding of Thelma’s design, performance, and evaluat
 
 Source : [Thelma: Threat Hunting Enhanced Language Models for Hunt Automation](https://ieeexplore-ieee-org.ntust.idm.oclc.org/abstract/document/10735642?casa_token=g2ogPvECGaYAAAAA:kSz8UHi1kDHdM7tLl8EvxgJ_H-cg6hqKpAr5PiDbgPvzJAfNSOJF23_GilBaKfvo9GUMNgWz5j8)
 
-[Back to the Project List](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#----projects---colorbluelab-coloryellowy-oung--colororanger-estless-colorgreenin-colorredt-hreat-colororangeh-unting)
+[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/Thelma/README.md#thelma-threat-hunting-enhanced-language-models-for-hunt-automation) | [Back to the Project List](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#----projects---colorbluelab-coloryellowy-oung--colororanger-estless-colorgreenin-colorredt-hreat-colororangeh-unting)

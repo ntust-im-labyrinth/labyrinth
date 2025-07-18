@@ -5,7 +5,7 @@
  $${\color{blue}Lab}$$, $${\color{yellow}Y}$$ oung &amp; $${\color{orange}R}$$ estless, $${\color{green}IN}$$, $${\color{red}T}$$ hreat $${\color{orange}H}$$ unting
 </h1>
 <p align="right">
-  <img alt="followers" title="Follow Lab Director Prof. Raymund Lin on Github for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+ 
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gilvylanggawan11.projects&left_text=Visitors" alt="visitor badge" style="margin-left: 10px;"/>
 </p>

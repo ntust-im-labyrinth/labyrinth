@@ -3,7 +3,7 @@
   AI in Cybersecurity Education
   <br />
 
-### Exploring Lacunae in ChatGPT-Facilitated Cybersecurity Education: An Investigation into Knowledge Discrepancies and Learning Challenges
+### 📚 Exploring Lacunae in ChatGPT-Facilitated Cybersecurity Education: An Investigation into Knowledge Discrepancies and Learning Challenges
 
 
 <p align="justify"> 

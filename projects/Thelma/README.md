@@ -3,7 +3,7 @@
   THELMA PROJECT
   <br />
 
-### Thelma: Threat Hunting Enhanced Language Models for Hunt Automation
+### 👾 Thelma: Threat Hunting Enhanced Language Models for Hunt Automation
 
 <p align="justify">Despite advancements in cybersecurity tools and frameworks, threat hunting remains a largely manual and expert-driven process. Traditional systems rely heavily on indicators of compromise (IOCs), which are rigid and easily evaded by sophisticated attackers. 
 While artificial intelligence and machine learning have been introduced to aid detection, these models often require large datasets, lack interpretability, and are not flexible enough to adapt to evolving threats. Moreover, existing automated threat hunting tools focus primarily on 

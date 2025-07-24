@@ -38,4 +38,4 @@ Experiments across multiple APT attack datasets validate the practical effective
 <p align="justify">Even without labeled anomalies, LogMamba by combining Mamba’s efficient long-sequence modeling with boundary extraction—successfully identifies key time intervals aligned with APT kill chains in a wide range of attack scenarios.</p>
 
 
-[Back to the Top] | [Back to the Project List](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#----projects---colorbluelab-coloryellowy-oung--colororanger-estless-colorgreenin-colorredt-hreat-colororangeh-unting)
+[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/logmamba/README.md#%EF%B8%8F-logmamba-self-supervised-log-anomaly-detection-for-apt-hunting) | [Back to the Project List](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#----projects---colorbluelab-coloryellowy-oung--colororanger-estless-colorgreenin-colorredt-hreat-colororangeh-unting)

@@ -3,7 +3,7 @@
   AI for Cybersecurity Attribution
   <br />
 
-### 🤖 Using Fine-Tuned Small Language Models on Synthetic Data to Enhance APT Attribution and TTP Chaining
+### 🤖 Usimg Fine-Tuned Small Language Models on Synthetic Data to Enhance APT Attribution and TTP Chaining
 
 <p align="justify"> Advanced Persistent Threats (APTs) remain notoriously hard to attribute because publicly available threat‑intelligence traces are both scarce and volatile. Conventional analyst workflows, which rely on labor‑intensive Indicator‑of‑Compromise (IoC) matching or malware lineage analysis, struggle to keep pace with fast‑evolving attacker tradecraft. To break this data bottleneck, the thesis proposes a resource‑efficient pipeline that synthesizes high‑fidelity, chronologically ordered attack narratives and exploits them to train a compact language model capable of near‑real‑time attribution</p>
 

@@ -63,6 +63,11 @@ See our [Publications](publications) and [Projects](projects) pages for recent w
 
 ---
 
+## 🏆 Award
+Our lab members have received prestigious [Awards](award) in national and international competitions, highlighting their excellence and the strength of our research efforts.
+
+---
+
 ## 📍 Location
 
 Management Building, Room 307

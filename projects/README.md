@@ -18,6 +18,7 @@
 - [Human factors in Cybersecurity](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects/HumanfactorsinCybersecurity#----human-factors-in-cybersecurity--)
 - [Log Mamba](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/logmamba/README.md#----log-mamba--)
 - [AI for Cybersecurity Attribution](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/AIforCybersecurityAttribution/README.md#----ai-for-cybersecurity-attribution--)
+- [iThelma](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects/iThelma)
 
 
 <p align="justify"> We’re not just focused on building and experimenting, we’re also big on sharing our work. From talks at conferences to published papers and community events, we aim to get our ideas out there. This repo showcases the work of our professors and lab members, and helps us connect with others in the cybersecurity and AI space.</p>
@@ -25,3 +26,4 @@
 
 
 🏠[Home Page](https://github.com/ntust-im-labyrinth/labyrinth)
+

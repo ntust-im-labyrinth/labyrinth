@@ -24,6 +24,7 @@ publications, reflecting our commitment to contributing to both academic and app
   This repo highlights our lab's contributions, helping us connect with researchers, students, and professionals who share our passion for cybersecurity and AI.
 </p>
 
-🏠[Home Page](https://github.com/ntust-im-labyrinth/labyrinth)
+[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/publications#---publication---colorbluelab-coloryellowy-oung--colororanger-estless-colorgreenin-colorredt-hreat-colororangeh-unting) | 🏠[Home Page](https://github.com/ntust-im-labyrinth/labyrinth)
+
 
 

@@ -18,7 +18,7 @@ In traditional security monitoring pipelines, detection often relies on static s
 <p align="justify"> 
 ⚙️ Adjustable parameters for balancing detection and log reduction</p></p>
 
-#### 🧠 How It Works (High-Level)
+#### 🧠 How It Works
 1. Log Parsing: Raw logs are preprocessed using the Drain parser to map messages to structured templates, which are then tokenized into log keys.
 2. Anomaly Detection: A self-supervised Mamba model learns to predict the next log key in a fixed-size window. Events falling outside the Top-K predictions are flagged as anomalous.
 3. Boundary Extraction: A dual-channel algorithm evaluates and cross-validates anomaly scores to delineate segments likely to correspond to APT behavior.

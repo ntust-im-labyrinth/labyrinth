@@ -45,4 +45,4 @@ Their approach combines technical depth with user-centric design, transforming t
 See our Presentation here : [AISEC Labs Presentation](https://www.canva.com/design/DAGXYGFVn2c/BYPAbr2MLCH_ed0C3FjtrA/edit?utm_content=DAGXYGFVn2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-[Back to the Top]() | [Back to the Award List](award)
+[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/award/gtep2024#----the-3rd-global-talent-entrepreneurship-2024--) | [Back to the Award List](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/award#---award---colorbluelab-coloryellowy-oung--colororanger-estless-colorgreenin-colorredt-hreat-colororangeh-unting)

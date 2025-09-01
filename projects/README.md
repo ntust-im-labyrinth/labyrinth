@@ -14,7 +14,7 @@
 <p align="justify"> Our project showcases the innovative research and initiatives driven by our lab in the fields of cybersecurity and artificial intelligence. We focus on cutting-edge areas such as: </p>
 
 - [Thelma](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/Thelma/README.md#----thelma-project--)
-  -  [iThelma](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects/iThelma)
+  -  [iThelma](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects/Thelma/iThelma#---ithelma--)
 - [AI in Cybersecurity Education](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/AIinCybersecurityEducation/README.md#----ai-in-cybersecurity-education--)
 - [Human factors in Cybersecurity](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects/HumanfactorsinCybersecurity#----human-factors-in-cybersecurity--)
 - [Log Mamba](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/logmamba/README.md#----log-mamba--)
@@ -27,5 +27,6 @@
 
 
 🏠[Home Page](https://github.com/ntust-im-labyrinth/labyrinth)
+
 
 

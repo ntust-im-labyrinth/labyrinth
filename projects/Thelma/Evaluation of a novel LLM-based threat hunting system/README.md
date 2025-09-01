@@ -22,5 +22,5 @@
 
 <p align="justify"> To address performance and scalability, the architecture supports multi-agent collaboration, enabling parallel task execution and improved efficiency in large-scale environments. This positions the system as a step forward in operationalizing AI-driven threat hunting, where automation augments human expertise rather than replacing it.</p>
 
-[Back to the Top]() | [Back to the Project List](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#----projects---colorbluelab-coloryellowy-oung--colororanger-estless-colorgreenin-colorredt-hreat-colororangeh-unting)
+[Back to the Top](https://github.com/ntust-im-labyrinth/labyrinth/blob/GilvyThelmaProjectM/projects/Thelma/Evaluation%20of%20a%20novel%20LLM-based%20threat%20hunting%20system/README.md#----design-implementation-and-evaluation-of-a-novel-llm-based-threat-hunting-system--) | [Back to the Project List](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/projects#----projects---colorbluelab-coloryellowy-oung--colororanger-estless-colorgreenin-colorredt-hreat-colororangeh-unting)
  ### 

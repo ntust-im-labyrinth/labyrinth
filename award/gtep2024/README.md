@@ -42,6 +42,8 @@ Represented by talented team members Lena, Gilvy, and Melody, AISEC Labs stood o
 Their approach combines technical depth with user-centric design, transforming traditional cybersecurity into a proactive, accessible, and engaging solution.
 </p>
 
+[About AISec Labs](https://github.com/ntust-im-labyrinth/labyrinth/tree/GilvyThelmaProjectM/award/gtep2024/AISECLabs#----aisec-labs--)
+
 See our Presentation here : [AISEC Labs Presentation](https://www.canva.com/design/DAGXYGFVn2c/BYPAbr2MLCH_ed0C3FjtrA/edit?utm_content=DAGXYGFVn2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 

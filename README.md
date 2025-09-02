@@ -46,9 +46,9 @@ Associate Professor, Department of Information Management, School of Management,
 | Wolf, Moritz  | Master's Student    | Phishing | m11309808(at)mail.ntust.edu.tw|
 | Chen, Wei-Shan     | Master's Student    | Threat Intelligence, LLM | m11309312(at)mail.ntust.edu.tw|
 | Lena T. Schramm       | Master’s Graduate  | Human Factors, Social Engineering, Cybersecurity Education  | https://www.linkedin.com/in/lena-t-schramm-5ba8501ab/       |
-| Rosso Lee        | PhD's Student  | Application Portfolio Rationalization, Application Modernization and cyber security | d11409105@mail.ntust.edu    |
-| Yuh-Siang Chao      | EMBA's Student  |  Information security with AI applications | yuhsiang0422@gmail.com    |
-| Jordan Chou    | EMBA's Student | Cybersecurity with AI application  | M11409908@mail.ntust.edu     |
+| Rosso Lee        | PhD's Student  | Application Portfolio Rationalization, Application Modernization and cyber security | d11409105(at)mail.ntust.edu    |
+| Yuh-Siang Chao      | EMBA's Student  |  Information security with AI applications | yuhsiang0422(at)gmail.com    |
+| Jordan Chou    | EMBA's Student | Cybersecurity with AI application  | M11409908(at)mail.ntust.edu     |
 | [Full Name]        | Research Assistant  | [Area, e.g., Incident Response Simulation]  | [LinkedIn/GitHub/email]       |
 
 ---

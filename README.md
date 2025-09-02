@@ -35,10 +35,10 @@ Associate Professor, Department of Information Management, School of Management,
 
 | Name               | Role               | Research Interests                          | Contact / Profile              |
 |--------------------|--------------------|---------------------------------------------|--------------------------------|
-| Ke,Wei-Lain        | Master's Student    | Log anomaly detection | m11209316(at)gapps.ntust.edut.tw       |
-| Chen,Peng-Jiun     | Master's Student    | Evaluation of a novel LLM-based threat hunting system  | m11209309(at)gapps.ntust.edut.tw|
+| Ke,Wei-Lain        | Master's Graduate    | Log anomaly detection | m11209316(at)gapps.ntust.edut.tw       |
+| Chen,Peng-Jiun     | Master's Graduate    | Evaluation of a novel LLM-based threat hunting system  | m11209309(at)gapps.ntust.edut.tw|
 | Lin,Cheng-Yi       | Master's Student    | Honeypot | m11209313(at)gapps.ntust.edut.tw|
-| Lai,Yu-Hsiang      | Master's Student    | LLM, APT Attribution, TTP | https://www.linkedin.com/in/laidd/<br>m11209315(at)mail.ntust.edu.tw|
+| Lai,Yu-Hsiang      | Master's Graduate    | LLM, APT Attribution, TTP | https://www.linkedin.com/in/laidd/<br>m11209315(at)mail.ntust.edu.tw|
 | Hsu,Yue-Shan       | Master's Student    | CyberSecurity Education Game, LLM | m11209320(at)mail.ntust.edu.tw|
 | Muhammad Gilvy Langgawan Putra <br>[Wang Tzu-wei]        | PhD's Student    | LLMs for Threat Hunting Education | https://www.linkedin.com/in/gilvylanggawan/ <br>muhammadlanggawan(at)gmail.com|
 | Kittitas Kasetsin  | Master's Student    | SEO Poisoning | m11209819(at)mail.ntust.edu.tw|
@@ -46,6 +46,9 @@ Associate Professor, Department of Information Management, School of Management,
 | Wolf, Moritz  | Master's Student    | Phishing | m11309808(at)mail.ntust.edu.tw|
 | Chen, Wei-Shan     | Master's Student    | Threat Intelligence, LLM | m11309312(at)mail.ntust.edu.tw|
 | Lena T. Schramm       | Master’s Graduate  | Human Factors, Social Engineering, Cybersecurity Education  | https://www.linkedin.com/in/lena-t-schramm-5ba8501ab/       |
+| Rosso Lee        | PhD's Student  | Application Portfolio Rationalization, Application Modernization and cyber security | d11409105@mail.ntust.edu    |
+| Yuh-Siang Chao      | EMBA's Student  |  Information security with AI applications | yuhsiang0422@gmail.com    |
+| Jordan Chou    | EMBA's Student | Cybersecurity with AI application  | M11409908@mail.ntust.edu     |
 | [Full Name]        | Research Assistant  | [Area, e.g., Incident Response Simulation]  | [LinkedIn/GitHub/email]       |
 
 ---
